@@ -1,5 +1,5 @@
 ---
 applications:
-- name:    hello-node
-  random-route: true
+- name:    ibm-hackx-sjtu
+  random-route: false
   memory:  128M
